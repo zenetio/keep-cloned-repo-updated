@@ -1,5 +1,5 @@
 # keep-cloned-repo-updated
-How to keep a forked repo updated with original repo
+### How to keep a forked repo updated with original repo
 
 1. Fork the repo you want to clone
 
